@@ -1,0 +1,13 @@
+# Web vitaminy pro 549
+> Moderní grilovací průvodce se sídlem v městě Brno, Jihomoravský.
+
+## Obsah webu
+- [Hlavní stránka](/index.html): Přehled publikací.
+- [O nás](/about.html): Kdo jsme a co děláme.
+- [Kontakt](/contact.html): Formulář a adresa.
+## Publikace
+- [Moderní přístupy k domácí péči o zdraví a prevenci](/moderni-pristupy-k-domaci-peci-o-zdravi-a-prevenci.html)
+- [Jak připravit perfektní teplé pohoštění: Kontaktní gril jako kulinářský pomocník](/jak-pripravit-perfektni-teple-pohosteni-kontaktni-gril-jako-kulinarsky-pomocnik.html)
+- [Co grilovat na kontaktním grilu: Průvodce od sýrů po steaky](/co-grilovat-na-kontaktnim-grilu-pruvodce-od-syru-po-steaky.html)
+- [Nejlepší recepty pro kontaktní gril: Krok za krokem](/nejlepsi-recepty-pro-kontaktni-gril-krok-za-krokem.html)
+- [Trendy v oblasti digitální transformace a automatizace procesů](/trendy-v-oblasti-digitalni-transformace-a-automatizace-procesu.html)
